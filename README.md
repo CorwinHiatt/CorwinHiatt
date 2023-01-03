@@ -1,7 +1,9 @@
-# - 👋 Hi, I’m @CorwinHiatt
-# - 👀 I’m interested in ... all things coding. I try to surf occasionally. 🤣
-# - 😊 Always Learning & Continuing my education as a fullstack software engineer.
+# - 👋 Hi, I’m @CorwinHiatt I'm a full-stack software engineer.
+#
+# - 👀 I’m interested in ... all things coding. I try to surf occasionally. 
+#
 # - 💞️ I’m looking to collaborate on ... any project that is trying to make the world a better place.
+#
 # - 📫 How to reach me ... Cell: (971) 267-9344 Email: https://corwinhiatt@yahoo.com LinkedIn: https://www.linkedin.com/in/corwinhiatt/
 
 <!---
