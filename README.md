@@ -5,7 +5,7 @@
 # - 💞️ I’m looking to collaborate on ... any project that is trying to make the world a better place.
 #
 # - 📫 How to reach me ... 
-## Email: https://corwinhiatt@yahoo.com LinkedIn: https://www.linkedin.com/in/corwinhiatt/
+## Email: https://corwinhiatt@yahoo.com LinkedIn:https://www.linkedin.com/in/corwinhiatt/
 
 <!---
 CorwinHiatt/CorwinHiatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
