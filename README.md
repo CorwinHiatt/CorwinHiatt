@@ -16,7 +16,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Originally from Oregon, Now in South Florida.
 
 - 🔭 I’m working as a Full Stack Software Engineer with ShowUp- Event Discovery and contributing to frontend and backend on 3-6 projects at any given time.
-- 🌱 I am Learning Constantly. I have some pretty impressive skill badges ask me about them!!! Continus education nd mentor shio are my favorite things in Life. 
+- 🌱 I am Learning Constantly. I have some pretty impressive skill badges ask me about them!!! Continus education, mentorship, surfing, and being a father are my favorite things in life. 
 - ⚡ In my free time I try to surf, and laugh and be apart of some sort of charitable event. 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
 
