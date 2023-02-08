@@ -11,7 +11,7 @@
 <h1 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <h1 src="https://giphy.com/embed/vqxviVfqGAa14SgeiC" width="480" height="480" ></h1>
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Originally from Oregon, Now in South Florida.
 
@@ -21,6 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
 </br>
 corwinhiatt@gmail.com
+</br>
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
