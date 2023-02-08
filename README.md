@@ -46,8 +46,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Corwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorwinHiatt&hide=,prs)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Corwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorwinHiatt&hide=,prs,issues,contribs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorwinHiatt&layout=compact&theme=vision-friendly-dark)](https://github.com/CorwinHiatt/github-readme-stats)
  
