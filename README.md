@@ -18,7 +18,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Full Stack Software Engineer with ShowUp- Event Discovery and contributing to frontend and backend on 3-6 projects at any given time.
 - 🌱 I am Learning Constantly. I have some pretty impressive skill badges ask me about them!!! Continus education, mentorship, surfing, and being a father are my favorite things in life. 
 - ⚡ In my free time I try to surf, and laugh and be apart of some sort of charitable event. 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Corwin</br>Hiatt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
 
 ---
 
