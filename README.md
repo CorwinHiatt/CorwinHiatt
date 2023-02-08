@@ -11,16 +11,14 @@
 <h1 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <h1 src="https://giphy.com/embed/vqxviVfqGAa14SgeiC" width="480" height="480" ></h1>
-### :man_technologist: &nbsp;About Me :
+### :woman_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Originally from Oregon, Now in South Florida.
 
 - 🔭 I’m working as a Full Stack Software Engineer with ShowUp- Event Discovery and contributing to frontend and backend on 3-6 projects at any given time.
 - 🌱 I am Learning Constantly. I have some pretty impressive skill badges ask me about them!!! Continus education, mentorship, surfing, and being a father are my favorite things in life. 
 - ⚡ In my free time I try to surf, and laugh and be apart of some sort of charitable event. 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
-</br>
-corwinhiatt@gmail.com
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt) or corwinhiatt@gmail.com
 </br>
 ---
 
