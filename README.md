@@ -19,7 +19,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I am Learning Constantly. I have some pretty impressive skill badges ask me about them!!! Continus education, mentorship, surfing, and being a father are my favorite things in life. 
 - ⚡ In my free time I try to surf, and laugh and be apart of some sort of charitable event. 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
-
+</br>
+corwinhiatt@gmail.com
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
