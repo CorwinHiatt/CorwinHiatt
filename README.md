@@ -11,8 +11,7 @@
 <h1 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <h1 src="https://giphy.com/embed/vqxviVfqGAa14SgeiC" width="480" height="480" ></h1>
-### : 
-👨🏽‍💻: &nbsp;About Me :
+### 👨🏽‍💻 &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Originally from Oregon, Now in South Florida.
 
