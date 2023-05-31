@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"  title="C#" **alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"  title="python" **alt="python" width="65" height="40"/>&nbsp;	
-<img src="https://user-images.githubusercontent.com/115106267/224781779-02bcf81a-66dd-4e41-bfb3-334b4d91aa61.png" width="60" height="65"/>&nbsp;	
+<img src="https://user-images.githubusercontent.com/115106267/224781779-02bcf81a-66dd-4e41-bfb3-334b4d91aa61.png" width="45" height="55"/>&nbsp;	
 
 </p>
 
