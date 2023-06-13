@@ -1,4 +1,7 @@
 
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge)
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge&labelColor=f00)
+
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/corwinhiatt"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -49,8 +52,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 [![Corwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorwinHiatt&hide=,prs,issues,contribs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge)
-![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge&labelColor=f00)
 
 <!-- now corwins to keep streak -->
 
