@@ -8,7 +8,6 @@
 </p>
 
 
-
 <h1 align="center">Hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <h1 src="https://giphy.com/embed/vqxviVfqGAa14SgeiC" width="480" height="480" ></h1>
@@ -49,6 +48,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; My Stats :
 [![Corwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorwinHiatt&hide=,prs,issues,contribs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge)
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge&labelColor=f00)
 
 <!-- now corwins to keep streak -->
 
