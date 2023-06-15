@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- now corwins to keep streak -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CorwinHiatt&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=CorwinHiatt&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorwinHiatt&layout=compact&theme=vision-friendly-dark)](https://github.com/CorwinHiatt/github-readme-stats&count_private=!true)
 
