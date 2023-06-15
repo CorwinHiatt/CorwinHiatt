@@ -44,7 +44,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </p>
 
-<!-- another one super busy  -->
+<!-- another one super busy my computers really messed up
+-->
 
 	
 ---
