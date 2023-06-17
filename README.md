@@ -1,4 +1,4 @@
-<!-->Just trying<-->
+
 [visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge) 
  ![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge&labelColor=f00)
 
