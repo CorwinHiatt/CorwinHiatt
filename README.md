@@ -1,5 +1,5 @@
 
-<P ><image position ="center" [visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge) ></image></p> 
+<p><image position ="center" [visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge) ></image></p> 
  ![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge&labelColor=f00)
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
