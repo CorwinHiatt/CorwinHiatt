@@ -63,7 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
  
 ---
-
+-
 ### ✍️ ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 - https://medium.com/@corwinhiatt2772/setting-up-your-mac-for-software-developement-fcd7dfdba344
 - https://medium.com/@corwinhiatt2772/collecting-my-100-nos-in-the-competitive-software-development-industry-21d84829c7d8
