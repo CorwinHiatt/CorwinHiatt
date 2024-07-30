@@ -16,7 +16,7 @@
 
 <h1 src="https://giphy.com/embed/vqxviVfqGAa14SgeiC" width="480" height="480" ></h1>
 ### 👨🏽‍💻 &nbsp;About Me :
-<!-- Having issues with my github but dont want to loose my commit streak so Im doing this -->
+<!-- Having issues with my github but dont want to loose my commit streak so Im doing this for some reason none of my commits not even here are showing-->
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Originally from Oregon, Now in South Florida.
 
 - 🔭 I’m working as a Full Stack Software Engineer with ShowUp- Event Discovery and contributing to frontend and backend on 3-6 projects at any given time.
