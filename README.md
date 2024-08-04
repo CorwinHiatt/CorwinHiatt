@@ -2,7 +2,7 @@
 <p><image position="center" [visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge)></image></p> 
 <p><image position="center"  ![visitor badge](https://visitor-badge.imlete.cn/?id=github.CorwinHiatt.visitor-badge&labelColor=f00)></image></p> 
 
-
+ keeping my streak
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/corwinhiatt"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
