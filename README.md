@@ -12,7 +12,7 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="480" height="480">
+  <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="375" height="400">
 </div>
 
 ### 👨🏽‍💻 &nbsp;About Me :
