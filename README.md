@@ -1,3 +1,5 @@
+# 🌟 Colee Software Services LLC - Where Innovation Meets Heart 🌟
+
 <p align="center">
   <a href="https://www.linkedin.com/in/corwinhiatt">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -8,7 +10,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
-<!-- <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="375" height="400">
@@ -16,12 +17,15 @@
 
 ### 👨🏽‍💻 &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Originally from Oregon, Now in South Florida.
+Greetings, tech enthusiasts! I'm **Corwin Hiatt**, the enthusiast behind **Colee Software Services LLC**. Originally from Oregon, I've come full circle to bring innovation back to my roots. I'm all about crafting digital solutions with a personal touch, because in the world of technology, it's the human connection that truly matters.
 
-- 🔭 I’m working as a Full Stack Software Engineer with ShowUp- Event Discovery and contributing to frontend and backend on 3-6 projects at any given time.
-- 🌱 I am Learning Constantly. Currently Exploring Machine Learning & Cyber Security. I have some pretty impressive skill badges ask me about them!!! Continus education, mentorship, surfing, and being a father are my favorite things in life. 
-- ⚡ In my free time I try to surf, and laugh and be apart of some sort of charitable event. 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt) or corwinhiatt@gmail.com
+- 🔭 **Current Endeavor**: I'm currently working on a contract for a farm equipment sales company, bringing their digital presence to life with the same passion I bring to every project.
+- 🌱 **Learning & Certifications**: 
+  - **CompTIA Project + Cert**: Project management is an art, and I've got the brush strokes down.
+  - **ITIL 4 Service Management Foundations Cert**: Ensuring services are not just delivered but are also meaningful and impactful.
+  - Always exploring **Machine Learning** and **Cyber Security**.
+- ⚡ **Hobbies**: When not coding, I'm out there exploring Oregon's beauty - probably laughing with my wife, and kids. Life's about balance, right?
+- 📫 **Reach Out**: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt) or drop me an email at corwinhiatt@gmail.com
 
 ---
 
@@ -63,6 +67,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### ✍️ Medium Articles :
 
-- [Streamline Your React Project: Deleting Unneeded Files for a Custom User Interface](https://corwinhiatt.medium.com/streamline-your-react-project-deleting-unneeded-files-for-a-custom-user-interface-eee5806d40ee)
-- [Setting Up Your Mac for Software Development](https://medium.com/@corwinhiatt2772/setting-up-your-mac-for-software-developement-fcd7dfdba344)
-- [Collecting My 100 Nos in the Competitive Software Development Industry](https://medium.com/@corwinhiatt2772/collecting-my-100-nos-in-the-competitive-software-development-industry-21d84829c7d8)
+- **[Streamline Your React Project: Deleting Unneeded Files for a Custom User Interface](https://corwinhiatt.medium.com/streamline-your-react-project-deleting-unneeded-files-for-a-custom-user-interface-eee5806d40ee)**
+- **[Setting Up Your Mac for Software Development](https://medium.com/@corwinhiatt2772/setting-up-your-mac-for-software-developement-fcd7dfdba344)**
+- **[Collecting My 100 Nos in the Competitive Software Development Industry](https://medium.com/@corwinhiatt2772/collecting-my-100-nos-in-the-competitive-software-development-industry-21d84829c7d8)**
+
+---
+
+### 🌊 Riding the Waves of Innovation
+
+I'm not just coding; I'm riding the waves of technology, bringing innovative solutions to life, and making sure every project I touch has that personal touch. Whether it's through mentoring, contributing to open-source, or just being a supportive member of the tech community, I'm here to make a difference.
+
+So, let's connect, collaborate, and create something extraordinary together. The future is bright, and I'm ready to ride those waves with you!
+
+---
+
+
