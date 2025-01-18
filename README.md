@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Colee+Software+Services+LLC;Where+Innovation+Meets+Heart;Full+Stack+Development;Cloud+Solutions;Cybersecurity+Excellence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Colee+Software+Services+LLC;Where+Innovation+Meets+Heart;Full+Stack+Development;Cloud+Solutions;SEO+Excellence)](https://git.io/typing-svg)
 
 <!-- Animated Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=200&section=header&text=Corwin%20Hiatt&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Innovating%20the%20Digital%20Frontier&descAlignY=55&descAlign=50"/>
