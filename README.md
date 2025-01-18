@@ -1,84 +1,96 @@
-# 🌟 Colee Software Services LLC - Where Innovation Meets Heart 🌟
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/corwinhiatt">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/corwinhiatt" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="375" height="400">
+  
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Colee+Software+Services+LLC;Where+Innovation+Meets+Heart;Full+Stack+Development;Cloud+Solutions;Cybersecurity+Excellence)](https://git.io/typing-svg)
+
+<!-- Animated Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=200&section=header&text=Corwin%20Hiatt&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Innovating%20the%20Digital%20Frontier&descAlignY=55&descAlign=50"/>
+
 </div>
 
-### 👨🏽‍💻 &nbsp;About Me :
+<!-- About Me Section with Custom Styling -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Tech_Innovator-00FFB3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Location-Oregon-00FFB3?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-00FFB3?style=for-the-badge&logo=statuspage&logoColor=white" />
+</div>
 
-Greetings, tech enthusiasts! I'm **Corwin Hiatt**, the enthusiast behind **Colee Software Services LLC**. Originally from Oregon, I've come full circle to bring innovation back to my roots. I'm all about crafting digital solutions with a personal touch, because in the world of technology, it's the human connection that truly matters.
+<br>
 
-- 🔭 **Current Endeavor**: I'm currently working on a contract for a farm equipment sales company, bringing their digital presence to life with the same passion I bring to every project.
-- 🌱 **Learning & Certifications**: 
-  - **CompTIA Project + Cert**: Project management is an art, and I've got the brush strokes down.
-  - **ITIL 4 Service Management Foundations Cert**: Ensuring services are not just delivered but are also meaningful and impactful.
-  - Always exploring **Machine Learning** and **Cyber Security**.
-- ⚡ **Hobbies**: When not coding, I'm out there exploring Oregon's beauty - probably laughing with my wife, and kids. Life's about balance, right?
-- 📫 **Reach Out**: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Corwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt) or drop me an email at corwinhiatt@gmail.com
+<!-- Animated Border Box for About Section -->
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</div>
 
----
+### 🚀 About the Tech Voyager
 
-### 🛠 &nbsp;Languages and Tools :
+> *"In the realm of code, every challenge is an opportunity to innovate."*
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" title="Python" alt="Python" width="65" height="40"/>&nbsp;	
-  <img src="https://user-images.githubusercontent.com/115106267/224781779-02bcf81a-66dd-4e41-bfb3-334b4d91aa61.png" width="45" height="55"/>&nbsp;	
-</p>
+Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Colee Software Services LLC**. From the green landscapes of Oregon, I'm crafting tomorrow's digital solutions with a blend of innovation and human connection.
 
----
+<details>
+<summary>🎯 Current Mission</summary>
+<br>
 
-### 🔥 &nbsp; My Stats :
+- 🔭 Spearheading a digital transformation project for a farm equipment sales company
+- 🌱 Expanding horizons in Machine Learning & Cybersecurity
+- 🎓 Certified in CompTIA Project+ & ITIL 4 Service Management
+- 🚀 Building scalable solutions that make a difference
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CorwinHiatt&hide=prs,issues,contribs&layout=compact&theme=vision-friendly-dark" alt="Corwin's GitHub stats">
-</p>
+<!-- Tech Stack Animation -->
+### 💻 Tech Arsenal
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CorwinHiatt&theme=dark" alt="GitHub Streak">
-</p>
+<div align="center">
+  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorwinHiatt&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
-</p>
+</div>
 
----
+<!-- GitHub Stats with Custom Theme -->
+### 📊 Performance Metrics
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=CorwinHiatt&theme=radical&hide_border=true&border_radius=10&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)](https://git.io/streak-stats)
 
-### ✍️ Medium Articles :
+<img src="https://github-profile-trophy.vercel.app/?username=CorwinHiatt&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
 
-- **[Streamline Your React Project: Deleting Unneeded Files for a Custom User Interface](https://corwinhiatt.medium.com/streamline-your-react-project-deleting-unneeded-files-for-a-custom-user-interface-eee5806d40ee)**
-- **[Setting Up Your Mac for Software Development](https://medium.com/@corwinhiatt2772/setting-up-your-mac-for-software-developement-fcd7dfdba344)**
-- **[Collecting My 100 Nos in the Competitive Software Development Industry](https://medium.com/@corwinhiatt2772/collecting-my-100-nos-in-the-competitive-software-development-industry-21d84829c7d8)**
+[![Corwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorwinHiatt&show_icons=true&theme=radical&hide_border=true&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
----
+</div>
 
-### 🌊 Riding the Waves of Innovation
+### 📚 Knowledge Base
+<div align="center">
+  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://corwinhiatt.medium.com/)
 
-I'm not just coding; I'm riding the waves of technology, bringing innovative solutions to life, and making sure every project I touch has that personal touch. Whether it's through mentoring, contributing to open-source, or just being a supportive member of the tech community, I'm here to make a difference.
+</div>
 
-So, let's connect, collaborate, and create something extraordinary together. The future is bright, and I'm ready to ride those waves with you!
+**Featured Articles:**
+- 🔥 [Streamline Your React Project](https://corwinhiatt.medium.com/streamline-your-react-project-deleting-unneeded-files-for-a-custom-user-interface-eee5806d40ee)
+- 💻 [Setting Up Your Mac for Software Development](https://medium.com/@corwinhiatt2772/setting-up-your-mac-for-software-developement-fcd7dfdba344)
+- 💪 [Collecting My 100 Nos in the Software Development Industry](https://medium.com/@corwinhiatt2772/collecting-my-100-nos-in-the-competitive-software-development-industry-21d84829c7d8)
 
----
+### 🌊 Digital Horizons
 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corwinhiatt@gmail.com)
 
+</div>
+
+> *"Innovation is where technology meets humanity, and that's where we thrive."*
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=120&section=footer"/>
