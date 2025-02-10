@@ -61,7 +61,7 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
 ### 📊 Performance Metrics
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=CorwinHiatt&theme=radical&hide_border=true&border_radius=10&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=CorwinHiatt&theme=radical&hide_border=true&border_radius=10&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)
 
 <img src="https://github-profile-trophy.vercel.app/?username=CorwinHiatt&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
 
