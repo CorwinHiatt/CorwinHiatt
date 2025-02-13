@@ -61,11 +61,20 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
 ### 📊 Performance Metrics
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=CorwinHiatt&theme=radical&hide_border=true&border_radius=10&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- Streak Stats -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=CorwinHiatt&theme=radical&hide_border=true&border_radius=10&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CorwinHiatt&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+<!-- Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=CorwinHiatt&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</a>
 
-[![Corwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorwinHiatt&show_icons=true&theme=radical&hide_border=true&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=CorwinHiatt&show_icons=true&theme=radical&hide_border=true&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF" alt="Corwin's GitHub stats" />
+</a>
 
 </div>
 
