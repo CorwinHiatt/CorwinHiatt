@@ -66,10 +66,10 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
   <img src="https://streak-stats.demolab.com?user=CorwinHiatt&theme=radical&hide_border=true&border_radius=10&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
-<!-- Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<!-- Trophies <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=CorwinHiatt&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</a>
+</a>-->
+
 
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
