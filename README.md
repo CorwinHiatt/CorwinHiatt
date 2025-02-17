@@ -59,16 +59,16 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
 
 <!-- GitHub Stats with Custom Theme -->
 ### 📊 Performance Metrics
-<div align="center">
+
 <!-- Streak Stats -->
-<a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats" align="center">
   <img src="https://streak-stats.demolab.com?user=CorwinHiatt&theme=ocean-gradient&hide_border=true&border_radius=10&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&date_format=M%20j%5B%2C%20Y%5D&_={timestamp}" alt="GitHub Streak" />
 
 </a>
 
 
 
-</div>
+
 <div align="center">
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
