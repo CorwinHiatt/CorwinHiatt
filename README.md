@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="300"> <!-- Refresh every 5 minutes -->
+
 
 <div align="center">
   
