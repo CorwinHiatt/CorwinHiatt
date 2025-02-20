@@ -61,6 +61,7 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
 
 <!-- GitHub Stats with Custom Theme -->
 ### 📊 Performance Metrics
+![GitHub Streak](https://github-streak-counter.vercel.app/?user=CorwinHiatt)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CorwinHiatt)
 
 <!-- Streak Stats -->
