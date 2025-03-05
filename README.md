@@ -63,7 +63,8 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
 ### 📊 Performance Metrics
 
 <!-- Streak Stats [![GitHub Streak](https://streak-stats.demolab.com?user=CorwinHiatt)](https://git.io/streak-stats)
--->
+I'm going to deploy to my own Vercel back end soon -->
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=CorwinHiatt&theme=ocean-gradient&hide_border=true&border_radius=10&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
