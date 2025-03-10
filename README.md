@@ -63,7 +63,7 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
 ### 📊 Performance Metrics
 
 <!-- Streak Stats [![GitHub Streak](https://streak-stats.demolab.com?user=CorwinHiatt)](https://git.io/streak-stats)
-I'm going to deploy to my own Vercel back end soon ITS STILL 11:15 AND MY STREAKL IS OVER??
+I'm going to deploy to my own Vercel back end soon 
 -->
 
 <div align="center">
