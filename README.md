@@ -67,7 +67,7 @@ I'm going to deploy to my own Vercel back end soon
 -->
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-second.vercel.app?user=CorwinHiatt&theme=java-dark&border_radius=9.3&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-second.vercel.app?user=CorwinHiatt&theme=java-dark&border_radius=9.3&short_numbers=true&cache=false" alt="GitHub Streak" /></a>
 </div>
 
 
