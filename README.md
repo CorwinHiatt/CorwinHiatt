@@ -19,11 +19,11 @@
 
 <br>
 
-<!-- Animated Border just checking Box for About Section -->
+<!-- Animated Border just checking Box for About Section 
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
-
+-->
 ### 🚀 About the Tech Voyager
 
 > *"In the realm of code, every challenge is an opportunity to innovate."*
