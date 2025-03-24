@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<!-- slacking Header -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Colee+Software+Services+LLC;Where+Innovation+Meets+Heart;Full+Stack+Development;Cloud+Solutions;SEO+Excellence)](https://git.io/typing-svg)
 
 <!-- Animated Wave -->
