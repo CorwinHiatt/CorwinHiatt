@@ -27,7 +27,7 @@ Animated Border just checking Box for About Section
 
 > *"In the realm of code, every challenge is an opportunity to innovate."*
 
-Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Colee Software Services LLC**. From the green landscapes of Oregon, I'm crafting tomorrow's digital solutions with a blend of innovation and human connection.
+Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Colee Software Services LLC**. From the green landscapes of Oregon, I'm crafting tomorrow's digital solutions with a blend of innovation and human connection.<3
 
 <details>
 <summary>🎯 Current Mission</summary>
