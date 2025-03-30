@@ -10,8 +10,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-Tech_Innovator-00FFB3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
+
   <img src="https://img.shields.io/badge/Location-Oregon-00FFB3?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-00FFB3?style=for-the-badge&logo=statuspage&logoColor=white" />
 </div>
