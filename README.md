@@ -30,8 +30,9 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 </details>
 
 <!-- Tech Stack Animation -->
-<h3>💻 Tech Arsenal</h3>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
+<h3>💻 Tech Arsenal</h3>
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
