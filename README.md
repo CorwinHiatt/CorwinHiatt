@@ -1,32 +1,23 @@
-
-
 <div align="center">
   
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Colee+Software+Services+LLC;Where+Innovation+Meets+Heart;Full+Stack+Development;Cloud+Solutions;SEO+Excellence)](https://git.io/typing-svg)
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=200&section=header&text=Corwin%20Hiatt&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Innovating%20the%20Digital%20Frontier&descAlignY=55&descAlign=50"/>
 
-</div>
-
-
-  <img src="https://img.shields.io/badge/Location-Oregon-00FFB3?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-00FFB3?style=for-the-badge&logo=statuspage&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/Location-Oregon-00FFB3?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Available_for_Projects-00FFB3?style=for-the-badge&logo=statuspage&logoColor=white" />
 
 <br>
 
-
-<div align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
-### 🚀 About the Tech Voyager
+<div align="center">
+<h3>🚀 About the Tech Voyager</h3>
 
-> *"In the realm of code, every challenge is an opportunity to innovate."*
+<i>"In the realm of code, every challenge is an opportunity to innovate."</i>
 
-Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Colee Software Services LLC**. From the green landscapes of Oregon, I'm crafting tomorrow's digital solutions with a blend of innovation and human connection.<3
+Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <b>Colee Software Services LLC</b>. From the green landscapes of Oregon, I'm crafting tomorrow's digital solutions with a blend of innovation and human connection.<3
 
 <details>
 <summary>🎯 Current Mission</summary>
@@ -39,13 +30,9 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
 </details>
 
 <!-- Tech Stack Animation -->
-### 💻 Tech Arsenal
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
-</div>
+<h3>💻 Tech Arsenal</h3>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
 
-<div align="center">
-  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,49 +42,28 @@ Greetings, digital pioneers! I'm **Corwin Hiatt**, the driving force behind **Co
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 <!-- GitHub Stats with Custom Theme -->
-### 📊 Performance Metrics
+<h3>📊 Performance Metrics</h3>
 
-<!-- Streak Stats [![GitHub Streak](https://streak-stats.demolab.com?user=CorwinHiatt)](https://git.io/streak-stats)
-I'm going to deploy to my own Vercel back end soon 
--->
-
-
-<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-second.vercel.app?user=CorwinHiatt&theme=java-dark&border_radius=9.3&short_numbers=true&cache=false&timestamp=1711817160" alt="GitHub Streak" /></a>
-</div>
-
-
-
-
-
-
 
 <!-- GitHub Stats -->
 
+<h3>📚 Knowledge Base</h3>
 
-
-</div>
-
-<!-- keeping my streak -->
-### 📚 Knowledge Base
-<div align="center">
-  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://corwinhiatt.medium.com/)
 
+<div align="left" style="text-align: center;">
+<b>Featured Articles:</b>
+<ul style="display: inline-block; text-align: left;">
+<li>🔥 <a href="https://corwinhiatt.medium.com/streamline-your-react-project-deleting-unneeded-files-for-a-custom-user-interface-eee5806d40ee">Streamline Your React Project</a></li>
+<li>💻 <a href="https://medium.com/@corwinhiatt2772/setting-up-your-mac-for-software-developement-fcd7dfdba344">Setting Up Your Mac for Software Development</a></li>
+<li>💪 <a href="https://medium.com/@corwinhiatt2772/collecting-my-100-nos-in-the-competitive-software-development-industry-21d84829c7d8">Collecting My 100 Nos in the Software Development Industry</a></li>
+</ul>
 </div>
 
-**Featured Articles:**
-- 🔥 [Streamline Your React Project](https://corwinhiatt.medium.com/streamline-your-react-project-deleting-unneeded-files-for-a-custom-user-interface-eee5806d40ee)
-- 💻 [Setting Up Your Mac for Software Development](https://medium.com/@corwinhiatt2772/setting-up-your-mac-for-software-developement-fcd7dfdba344)
-- 💪 [Collecting My 100 Nos in the Software Development Industry](https://medium.com/@corwinhiatt2772/collecting-my-100-nos-in-the-competitive-software-development-industry-21d84829c7d8)
+<h3>🌊 Digital Horizons</h3>
 
-### 🌊 Digital Horizons
-
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corwin@coleesoftwareservices.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572314462403)
@@ -105,9 +71,8 @@ I'm going to deploy to my own Vercel back end soon
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ColeeSSLLC)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.coleesoftwareservices.com/)
 
+<i>"Innovation is where technology meets humanity, and that's where we thrive."</i>
 </div>
-
-> *"Innovation is where technology meets humanity, and that's where we thrive."*
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=120&section=footer"/>
