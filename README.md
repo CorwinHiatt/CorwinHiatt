@@ -29,7 +29,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 - 🚀 Building scalable solutions that make a difference
 </details>
 
-<!-- Tech Stack Animation -->
+
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
 <h3>💻 Tech Arsenal</h3>
 
