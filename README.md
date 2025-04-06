@@ -48,6 +48,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-second.vercel.app?user=CorwinHiatt&theme=java-dark&border_radius=9.3&short_numbers=true&cache=false&timestamp=1711817160" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CorwinHiatt&theme=java-dark&border_radius=9.3&short_numbers=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CorwinHiatt&theme=java-dark&border_radius=9.3" alt="GitHub Streak" /></a>
 
 
 
