@@ -20,7 +20,7 @@
 Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <b>Colee Software Services LLC</b>. From the green landscapes of Oregon, I'm crafting tomorrow's digital solutions with a blend of innovation and human connection.<3
 
 <details>
-<!-- <summary>🎯 Current Mission</summary> -->
+
 <br>
 
 - 🔭 Spearheading a digital transformation project for a farm equipment sales company
