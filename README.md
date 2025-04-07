@@ -43,7 +43,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- GitHub Stats with Custom Theme -->
+
 <h3>📊 Performance Metrics</h3>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CorwinHiatt&theme=java-dark&border_radius=9.3" alt="GitHub Streak" /></a>
