@@ -50,6 +50,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 ](https://github-readme-streak-stats.herokuapp.com?user=CorwinHiatt&theme=java-dark&border_radius=9.3&timezone=America/Los_Angeles
 )
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CorwinHiatt&theme=java-dark&border_radius=9.3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&excludeDaysLabel=true&cache_seconds=0" alt="GitHub Streak" /></a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CorwinHiatt&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>📚 Knowledge Base</h3>
