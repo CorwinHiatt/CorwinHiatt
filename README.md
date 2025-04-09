@@ -63,7 +63,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 </ul>
 </div>
 
-<h3>🌊 Digital Horizons</h3>
+<h2>🌊 Digital Horizons</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corwin@coleesoftwareservices.com)
