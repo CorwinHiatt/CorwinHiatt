@@ -52,6 +52,8 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 
 
 <h3>📚 Knowledge Base</h3>
+SOMETHING IS WRONG WITH MY STREAK COUNTER
+
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://corwinhiatt.medium.com/)
 
