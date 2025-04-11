@@ -48,7 +48,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 
 [![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt)](https://git.io/streak-stats)
+
 
 
 <h3>📚 Knowledge Base</h3>
