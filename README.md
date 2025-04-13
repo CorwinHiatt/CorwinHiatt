@@ -49,10 +49,12 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 [![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none)
+
 
 
 <h3>📚 Knowledge Base</h3>
-SOMETHING IS WRONG WITH MY STREAK COUNTER
+
 
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://corwinhiatt.medium.com/)
