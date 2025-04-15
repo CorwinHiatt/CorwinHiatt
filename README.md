@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Status-Available_for_Projects-00FFB3?style=for-the-badge&logo=statuspage&logoColor=white" />
 
 <br>
-<p>I have been slacking on my commits butcoding in pycharm to make up for it </p>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
