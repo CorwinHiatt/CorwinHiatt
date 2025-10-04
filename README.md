@@ -15,7 +15,7 @@
 <div align="center">
 <h3>🚀 About the Tech Voyager</h3>
 
-<i>"In the realm of code, every challenge is an opportunity to innovate."</i>
+<i>"In the realm of code, every challenge is an opportunity to innovate!"</i>
 
 Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <b>Colee Software Services LLC</b>. From the green landscapes of Oregon, I'm crafting tomorrow's digital solutions with a blend of innovation and human connection.<3
 
