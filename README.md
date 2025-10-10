@@ -20,19 +20,18 @@
 Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <b>Colee Software Services LLC</b>. From the green landscapes of Oregon, I'm crafting tomorrow's digital solutions with a blend of innovation and human connection.<3
 
 <details>
-
+<summary><b>More About Me</b></summary>
 <br>
 
 - 🔭 Spearheading a digital transformation project for a farm equipment sales company
 - 🌱 Expanding horizons in Machine Learning & Cybersecurity
 - 🎓 Certified in CompTIA Project+ & ITIL 4 Service Management
 - 🚀 Building scalable solutions that make a difference
+- 💻 Developing cyber monitoring tools and web scrapers for specialized applications
 </details>
-
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
 <h4>💻 Tech Arsenal</h4>
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,19 +40,24 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-%2300f.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<h3>🏆 Client Showcase</h3>
+
+<a href="https://www.mcaestheticsclinic.com" target="_blank">
+  <img src="https://img.shields.io/badge/MC_Aesthetics_Clinic-00FFB3?style=for-the-badge&logo=medical&logoColor=white" alt="MC Aesthetics Clinic" />
+</a>
+<a href="https://www.kineticprotectiongroupllc.com" target="_blank">
+  <img src="https://img.shields.io/badge/Kinetic_Protection_Group-00FFB3?style=for-the-badge&logo=shield&logoColor=white" alt="Kinetic Protection Group LLC" />
+</a>
+<img src="https://img.shields.io/badge/Cyber_Monitoring_&_Web_Scrapers-00FFB3?style=for-the-badge&logo=webflow&logoColor=white" alt="Cyber Monitoring & Web Scrapers" />
 
 <h3>📊 Performance Metrics</h3>
 
 ![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none)
 
-
-
 <h3>📚 Knowledge Base</h3>
-
-
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://corwinhiatt.medium.com/)
 
