@@ -55,7 +55,26 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 
 <h3>📊 Performance Metrics</h3>
 
-![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none)
+![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none) 1
+<h3>📊 Performance Metrics</h3>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&count_private=true) 2
+
+<h3>📊 Performance Metrics</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=corwinhiatt&theme=microsoft-dark&short_numbers=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=corwinhiatt&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>3
+<h3>📊 Performance Metrics</h3>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=corwinhiatt&theme=microsoft-dark&date_format=M%20j%5B%2C%20Y%5D&short_numbers=true)4
+<h3>📊 Performance Metrics</h3>
+
+![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none&date_format=M%20j%5B%2C%20Y%5D&timestamp=1697136452)5
+
+
+
 
 <h3>📚 Knowledge Base</h3>
 
