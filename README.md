@@ -55,8 +55,8 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 
 <h3>📊 Performance Metrics</h3>
 
-![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none) 1
-<h3>📊 Performance Metrics</h3>
+[![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none) ](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none&t=1697049825
+)
 
 
 
