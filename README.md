@@ -54,10 +54,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 <img src="https://img.shields.io/badge/Cyber_Monitoring_&_Web_Scrapers-00FFB3?style=for-the-badge&logo=webflow&logoColor=white" alt="Cyber Monitoring & Web Scrapers" />
 
 <h3>📊 Performance Metrics</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none) ](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&cache=none&t=1697049825
-)
-//7//\\7\\
+[![GitHub Streak](https://github-readme-streak-stats-second.vercel.app?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0)](https://git.io/streak-stats)
 
 
 <h3>📚 Knowledge Base</h3>
