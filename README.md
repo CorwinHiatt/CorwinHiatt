@@ -58,7 +58,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 </p>
 <p align="center">*Metrics are displayed in Pacific Standard Time (PST).</p>
 
-//no
+
  Knowledge Base</h3>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://corwinhiatt.medium.com/)
