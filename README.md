@@ -22,7 +22,7 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 <details>
 <summary><b>More About Me</b></summary>
 <br>
-<!-- I want it to reflect everyday that im coding. Ive been working on a branch for MC Aesthetics for a while now. Basically i just come in here to reflect that I am coding everyday. -->
+
 
 - 🔭 Spearheading a digital transformation project for a farm equipment sales company
 - 🌱 Expanding horizons in Machine Learning & Cybersecurity
