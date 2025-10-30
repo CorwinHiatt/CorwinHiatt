@@ -58,13 +58,14 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=corwinhiatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corwinhiatt&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corwinhiatt&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=corwinhiatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false)
 
 </div>
 
-*Metrics are displayed in Pacific Time (PT - automatically adjusts for PST/PDT).*
+<p align="center"><em>*Metrics are displayed in Pacific Time (PT - automatically adjusts for PST/PDT).</em></p>
+
 
 
 
