@@ -57,10 +57,15 @@ Greetings, digital pioneers! I'm <b>Corwin Hiatt</b>, the driving force behind <
 ### 📊 Performance Metrics (Pacific Time)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=corwinhiatt&theme=microsoft-dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&timezone=America/Los_Angeles" alt="GitHub Streak Stats for Corwin Hiatt" />
   
-  *Metrics are displayed in Pacific Time (PT - automatically adjusts for PST/PDT).*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=corwinhiatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corwinhiatt&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
 </div>
+
+*Metrics are displayed in Pacific Time (PT - automatically adjusts for PST/PDT).*
+
 
 
 
