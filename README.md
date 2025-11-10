@@ -21,7 +21,7 @@
 
 <br>
 
-**Colee Software Services LLC** is a full-service software development and digital solutions company based in McMinnville, Oregon. As owner and principal developer, I combine technical expertise with business acumen to deliver scalable, secure, and innovative solutions for clients ranging from healthcare and security to political campaigns and Fortune 500 companies.
+**Colee Software Services LLC** is a full-service software development and digital solutions company based in McMinnville, Oregon. As owner and principal developer, I combine technical expertise with business acumen to deliver scalable, secure, and innovative solutions for clients ranging from healthcare and security to high-profile political campaigns and Fortune 500 companies.
 
 ### 🏢 Core Competencies
 
@@ -42,14 +42,14 @@
 
 <div align="center">
 
-### Healthcare & Aesthetics
+### Healthcare & Aesthetics (More not able to Feature)
 <a href="https://www.mcaestheticsclinic.com" target="_blank">
   <img src="https://img.shields.io/badge/MC_Aesthetics_Clinic-B4A698?style=for-the-badge&logo=medical&logoColor=white" alt="MC Aesthetics Clinic" />
 </a>
 <br>
 <i>Full-stack development | Custom booking system | SEO optimization</i>
 
-### Facilitation & Training
+### Facilitation & Alt. Healthcare
 <a href="https://facilitation.susannahgraven.com/age-verification" target="_blank">
   <img src="https://img.shields.io/badge/Susannah_Graven-00FFB3?style=for-the-badge&logo=webflow&logoColor=white" alt="Susannah Graven" />
 </a>
@@ -70,11 +70,11 @@
 <i>Data analytics | Custom reporting solutions | Performance optimization</i>
 
 ### Specialized Solutions
-<img src="https://img.shields.io/badge/Political_Campaigns-DC143C?style=for-the-badge&logo=campaign&logoColor=white" alt="Political Campaigns" />
+<img src="https://img.shields.io/badge/High_Profile_Clientele-DC143C?style=for-the-badge&logo=vip&logoColor=white" alt="High Profile Clientele" />
 <img src="https://img.shields.io/badge/Custom_Scrapers-00FFB3?style=for-the-badge&logo=webflow&logoColor=white" alt="Custom Scrapers" />
 <img src="https://img.shields.io/badge/Webmaster_Services-2E4374?style=for-the-badge&logo=wordpress&logoColor=white" alt="Webmaster Services" />
 <br>
-<i>Sentiment analysis | SERP monitoring | Data intelligence | Content management</i>
+<i>Political campaigns | Sentiment analysis | SERP monitoring | Data intelligence | Content management</i>
 
 </div>
 
@@ -90,7 +90,7 @@
 - 📚 **Full-Time Student** (Current)
 - 🏅 **CompTIA Project+** Certified
 - 🏅 **ITIL 4 Service Management Foundations** Certified
-- 🔐 **Cybersecurity Specialization**
+- 🔐 **Digital Footprint Cyber Forensic Specialization**
 - 🤖 **Machine Learning Fundamentals**
 
 </td>
