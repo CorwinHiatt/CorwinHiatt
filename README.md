@@ -98,7 +98,7 @@
 
 ### 🛡️ Business Operations
 - 💼 **Fully Insured** (Cyber & General Liability)
-- 🏢 **Multi-Member LLC** (50/50 Partnership)
+- 🏢 **Multi-Member LLC** 
 - 📊 **S Corp Election** (Planned 2026)
 - 📍 **Based in McMinnville, OR**
 - 🌐 **Serving Clients Nationwide**
