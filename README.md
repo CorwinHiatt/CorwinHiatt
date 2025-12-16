@@ -163,8 +163,8 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats-se-git-ff2491-corwin-hiatts-projects.vercel.app?user=corwinhiatt&theme=highcontrast&hide_border=true&border_radius=6&date_format=n%2Fj%5B%2FY%5D&sideNums=0FEBC2&border=4CEBB9&currStreakNum=EBDB26)](https://git.io/streak-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=corwinhiatt&theme=highcontrast&hide_border=true&border_radius=6&date_format=n%2Fj%5B%2FY%5D&sideNums=0FEBC2&border=4CEBB9&currStreakNum=EBDB26)](https://git.io/streak-stats)
 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
