@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=200&section=header&text=Corwin%20Hiatt&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Owner%20%7C%20Colee%20Software%20Services%20LLC&descAlignY=55&descAlign=50"/>
 
 <img src="https://img.shields.io/badge/Location-McMinnville%2C%20Oregon-00FFB3?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Available_for_Enterprise_Projects-00FFB3?style=for-the-badge&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Scaling_Our_Solutions-2E4374?style=for-the-badge&logo=statuspage&logoColor=white" />
 <img src="https://img.shields.io/badge/Insured-Cyber%20%26%20General%20Liability-00FFB3?style=for-the-badge&logo=shield&logoColor=white" />
 
 <br>
@@ -21,7 +21,7 @@
 
 <br>
 
-**Colee Software Services LLC** is a full-service software development and digital solutions company based in McMinnville, Oregon. As owner and principal developer, I combine technical expertise with business acumen to deliver scalable, secure, and innovative solutions for clients ranging from healthcare and security to high-profile political campaigns and Fortune 500 companies.
+**Colee Software Services LLC** is a full-service software development and digital solutions company based in McMinnville, Oregon. As owner and principal developer, I combine technical expertise with business acumen to deliver scalable, secure, and innovative solutions. We are currently near capacity as we actively scale our infrastructure and team to meet growing demand — if you're interested in working together, reach out early to secure your spot.
 
 ### 🏢 Core Competencies
 
@@ -212,10 +212,9 @@
 
 <br>
 
-**Available for consulting, project development, and enterprise solutions.**
+**Interested in working together? Reach out early — availability is limited as we scale.**
 
 </div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=120&section=footer"/>
-
