@@ -39,6 +39,7 @@ I built Colee Software Services to give clients an engineering partner that oper
 | **WordPress at a Professional Level** | Custom themes, PHP work, managed hosting optimization for legacy clients |
 | **AI Integration & Automation** | MCP servers, API orchestration, LLM-powered workflows, agentic tooling |
 | **ADA / Accessibility** | WCAG audits, remediation, inclusive design as a default |
+| **Regulated & Compliance-Sensitive Industries** | Investment advisors, healthcare, insurance — builds aligned with the disclosure, advertising, and accessibility rules that apply |
 | **Cloud & Delivery** | GCP, AWS, Vercel — performance-tuned deployments with real monitoring |
 
 ---
@@ -47,17 +48,32 @@ I built Colee Software Services to give clients an engineering partner that oper
 
 *Some engagements are under NDA and can't be listed.*
 
-**Healthcare & Aesthetics** — [MC Aesthetics Clinic](https://www.mcaestheticsclinic.com)
-Next.js 15 rebuild, 30+ pages, structured data, conversion-focused architecture.
+**Healthcare & Aesthetics** — [mcaestheticsclinic.com](https://www.mcaestheticsclinic.com)
+Next.js 15 rebuild, 30+ pages, structured data, conversion-focused architecture for a medical aesthetics clinic.
 
-**Facilitation & Alternative Healthcare** — [Susannah Graven](https://facilitation.susannahgraven.com/age-verification)
-Age verification, custom CMS workflow, professional facilitation platform.
+**Security Services** — [kineticprotectiongroupllc.com](https://www.kineticprotectiongroupllc.com)
+Lead-gen funnel, mobile-first build, hardened presence for a professional security firm.
 
-**Security Services** — [Kinetic Protection Group LLC](https://www.kineticprotectiongroupllc.com)
-Lead-gen funnel, mobile-first build, hardened presence for a security firm.
+**Alternative Medicine & Facilitation** — [facilitation.susannahgraven.com](https://facilitation.susannahgraven.com)
+Age verification gate, custom CMS workflow, and a discreet, compliance-aware platform for a licensed alternative medicine practice.
 
-**Enterprise & Analytics** — Marathon Petroleum · Allstate Insurance
-Custom reporting, data analytics, performance work for enterprise environments.
+**Industrial & Commercial Services** — [squarevac.com](https://squarevac.com)
+Web presence, lead capture, and conversion-focused architecture for a specialized industrial services company.
+
+**Lifestyle & Retail** — [thetwistedlasso.com](https://thetwistedlasso.com)
+Brand-forward storefront, performance-tuned build, and mobile-first design.
+
+**Tax & Accounting Services** — [shoeboxpdx.com](https://shoeboxpdx.com)
+SEO optimization and website modernization for a Portland-area tax preparation firm — custom WordPress theme work, on-page SEO, and Core Web Vitals improvements.
+
+**Financial Services / Registered Investment Advisor** — [cardinalwealthmanagement.org](https://cardinalwealthmanagement.org)
+Landing page and digital presence for a financial advisor and wealth planner. Built with the constraints of investment advisor compliance in mind — neutral, non-performance-claim language, clear Form ADV / disclosure linking, advertising-rule-aware copy, and accessibility standards required of regulated financial sites.
+
+**Enterprise — Marathon Petroleum Corp**
+Custom reporting, data analytics, and performance work in an enterprise environment.
+
+**Enterprise — Allstate Insurance**
+Data analytics and custom reporting solutions supporting large-scale operations.
 
 **Specialized Engagements** — Real-time threat monitoring · Political campaigns · SERP intelligence · Sentiment pipelines · Custom CMS
 
