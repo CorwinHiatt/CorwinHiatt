@@ -73,13 +73,13 @@ SEO optimization and website modernization for a Portland-area tax preparation f
 Landing page and digital presence for a financial advisor and wealth planner. Built to the full compliance stack required of registered investment advisors — neutral, non-performance-claim language per SEC advertising rules (Rule 206(4)-1), clear Form ADV / disclosure linking, FINRA-aware copy review, no testimonials or performance representations, and WCAG 2.2 AA accessibility standards throughout.
 
 **Enterprise — Allstate Insurance**
-Lead generation infrastructure, digital consulting, and custom data analytics solutions supporting large-scale insurance operations. Engagement included TCPA-compliant lead capture architecture — explicit consent mechanisms, audit-ready opt-in records, and scrubbing workflows aligned with do-not-call obligations — alongside strategic digital consulting to improve pipeline performance and attribution.
+Lead gen infrastructure, TCPA-compliant lead capture, and digital consulting for large-scale insurance operations.
 
 **Enterprise — Marathon Petroleum Corp**
-Enterprise-scale digital asset production and analytics for one of the largest petroleum refining and marketing operations in the United States. Deliverables included design, production, and quality-controlled deployment of 400+ branded fuel graphic assets for retail and commercial locations, alongside custom reporting and performance analytics work across internal systems.
+Design, production, and deployment of 400+ branded fuel graphic assets; custom reporting and performance analytics across internal systems.
 
-**Confidential Nonprofit — Digital Forensics & OSINT**
-Provided structured digital forensics and open-source intelligence (OSINT) services to a large nonprofit organization. Scope included digital footprint mapping, entity resolution, and investigative data aggregation — conducted with strict operational security, documented chain of custody, and findings delivered in a format suitable for internal review and, where applicable, legal handoff. Client identity protected under confidentiality agreement.
+**Nonprofit — Digital Forensics & OSINT**
+Digital forensics and OSINT services for a large nonprofit — digital footprint mapping, entity resolution, and investigative data aggregation. Ongoing engagement. Client identity under NDA.
 
 **Specialized Engagements** — Real-time threat monitoring · Political campaigns · SERP intelligence · Sentiment pipelines · Custom CMS
 
