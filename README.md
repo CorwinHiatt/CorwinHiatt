@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=180&section=header&text=Corwin%20Hiatt&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Founder%20%26%20CEO,%20Colee%20Software%20Services%20LLC&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:2E4374&height=180&section=header&text=Corwin%20Hiatt&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Founder%20and%20CEO,%20Colee%20Software%20Services%20LLC&descAlignY=55&descAlign=50"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corwinhiatt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:corwin@coleesoftwareservices.com)
